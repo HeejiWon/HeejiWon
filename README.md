@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is Heeji Won. I am a student at the Department of Statistics, University of Seoul. I'm currently studying Deep Learning!
+
+#### Interest
+- Deep Learning
+- Machine Learning
+- Data Analysis
+- Python/R/SAS
+
+This is a link to a detailed profile written in Notion.
+https://www.notion.so/Hee-ji-Won-3a5c8e8098da4ea3a85f414983eca3a5
 
 <!--
 **HeejiWon/HeejiWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
