@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Heeji Won. I am a student at the Department of Statistics, University of Seoul. I'm currently studying Deep Learning!
 
-#### Interest
+### Interest
 - Deep Learning
 - Machine Learning
 - Data Analysis
