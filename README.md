@@ -23,7 +23,7 @@ My name is Heeji Won. I am a student at the Department of Statistics, University
 
 - 💫 __Study__
   - 핸즈온 머신러닝 & CMU introduction to Deep Learning Fall 2020 [\[syllabus\]](https://deeplearning.cs.cmu.edu/F20/index.html) 　　　　　　　　　　github : https://github.com/HeejiWon/Hands-On-DL
-  - 알고리즘 스터디　　　　　　　　　　github : https://github.com/HeejiWon/Algorithm_study
+  - 알고리즘 스터디 (파이썬 알고리즘 인터뷰)　　　　　　　　　　github : https://github.com/HeejiWon/Algorithm_study
   - 밑바닥부터 시작하는 딥러닝 3　　　　　　　　　　github : https://github.com/HeejiWon/DL-from-Scratch
   - 블록과 함께하는 파이썬 딥러닝 케라스　　　　　　　　　　github : https://github.com/HeejiWon/DL-Keras-Practice
 
