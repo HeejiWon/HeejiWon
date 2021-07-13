@@ -33,7 +33,7 @@ My name is Heeji Won. I am a student at the Department of Statistics, University
   - 데이콘 제2회 컴퓨터 비전 학습 경진대회　　　　　　　　　　github : https://github.com/HeejiWon/DACON_Dirty-MNIST-1
 
 
-Last Edited on: 29/06/2021
+Last Edited on: 13/07/2021
 <!--
 **HeejiWon/HeejiWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
